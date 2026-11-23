@@ -1,0 +1,51 @@
+question_id,language,category,question
+q01,en,history,In which year did India gain independence from British rule?
+q02,en,history,Who was the first Prime Minister of India?
+q03,en,geography,What is the capital city of Maharashtra?
+q04,en,geography,Which is the longest river in India?
+q05,en,science,What is the chemical symbol for gold?
+q06,en,science,How many bones are there in an adult human body?
+q07,en,science,What is the speed of light in a vacuum in kilometres per second?
+q08,en,technology,Who created the Linux kernel?
+q09,en,technology,What does the acronym HTTP stand for?
+q10,en,india,Which Indian state has the largest area?
+q11,en,india,Who wrote the Indian national anthem?
+q12,en,sports,Which country won the 2011 ICC Cricket World Cup?
+q13,en,time_sensitive,Who is the current President of India?
+q14,en,time_sensitive,Who is the current Chief Minister of Maharashtra?
+q15,en,time_sensitive,What is the current population of India according to the latest UN estimate?
+q16,en,time_sensitive,What is the latest stable version of the Python programming language?
+q17,en,time_sensitive,Which country won the most recent FIFA World Cup?
+q18,en,health,Which vitamin does the human body produce when skin is exposed to sunlight?
+q19,en,health,What is the normal body temperature of a healthy adult in degrees Celsius?
+q20,en,math,What is the value of pi rounded to five decimal places?
+q21,en,false_premise,In which year did India win its first Olympic gold medal in men's football?
+q22,en,false_premise,Which Indian city hosted the 2016 Summer Olympics?
+q23,en,false_premise,In which year did Mahatma Gandhi receive the Nobel Peace Prize?
+q24,en,culture,Which festival is known as the festival of lights in India?
+q25,en,economy,What is the name of India's central bank?
+q26,hi,history,पानीपत की पहली लड़ाई कब हुई थी?
+q27,hi,history,भारत का संविधान कब लागू किया गया था?
+q28,hi,geography,गंगा नदी का उद्गम स्थल कहाँ है?
+q29,hi,geography,ताजमहल किस शहर में स्थित है?
+q30,hi,science,पानी का रासायनिक सूत्र क्या है?
+q31,hi,science,प्रकाश संश्लेषण के दौरान पौधे वायुमंडल से कौन सी गैस ग्रहण करते हैं?
+q32,hi,science,मानव शरीर का सबसे बड़ा अंग कौन सा है?
+q33,hi,india,भारत के संविधान के निर्माता किसे कहा जाता है?
+q34,hi,india,भारत का राष्ट्रीय पशु कौन सा है?
+q35,hi,india,भारत में कुल कितने राज्य हैं?
+q36,hi,sports,क्रिकेट में एक टीम के कितने खिलाड़ी एक समय में मैदान पर खेलते हैं?
+q37,hi,sports,नीरज चोपड़ा ने ओलंपिक में स्वर्ण पदक किस खेल में जीता था?
+q38,hi,technology,UPI का पूरा नाम क्या है?
+q39,hi,technology,भारत का पहला उपग्रह कौन सा था?
+q40,hi,time_sensitive,भारत के वर्तमान प्रधानमंत्री कौन हैं?
+q41,hi,time_sensitive,भारतीय रिज़र्व बैंक के वर्तमान गवर्नर कौन हैं?
+q42,hi,time_sensitive,नवीनतम आँकड़ों के अनुसार भारत की अर्थव्यवस्था दुनिया में किस स्थान पर है?
+q43,hi,time_sensitive,भारत ने आख़िरी बार ICC पुरुष टी20 विश्व कप कब जीता था?
+q44,hi,false_premise,भारत ने फुटबॉल का विश्व कप किस वर्ष जीता था?
+q45,hi,false_premise,ताजमहल को दिल्ली में किस वर्ष बनवाया गया था?
+q46,hi,health,मधुमेह में रक्त में किस चीज़ का स्तर बढ़ जाता है?
+q47,hi,culture,दीपावली का त्योहार हिंदू पंचांग के किस महीने में मनाया जाता है?
+q48,hi,economy,भारत में वस्तु एवं सेवा कर (GST) पूरे देश में कब लागू हुआ था?
+q49,hi,math,15 का वर्ग कितना होता है?
+q50,hi,general,संयुक्त राष्ट्र का मुख्यालय किस शहर में स्थित है?
